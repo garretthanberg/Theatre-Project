@@ -22,7 +22,7 @@ Drawing upon my mastery of C#, I skillfully engineered the back-end functionalit
 ![Screenshot 2023-05-18 at 21 48 20](https://github.com/garretthanberg/Theatre-Project/assets/115447682/fb562799-b231-4d10-9ad1-e53402f423e5)
 
 
-Throughout the iterative development process, I embraced agile methodologies, collaborating closely with the theater company to ensure their vision was realized to its fullest potential. I diligently gathered requirements, swiftly implementing changes and fine-tuning the comment section to align with their evolving needs. The project's success hinged on fostering open communication, where my adeptness in understanding and translating their unique requirements into a tangible, sophisticated solution shone through.
+Throughout the iterative development process, I embraced agile methodologies, collaborating closely with my team to ensure the theater company's vision was realized to its fullest potential. I diligently gathered requirements, swiftly implementing changes and fine-tuning the comment section to align with their evolving needs. The project's success hinged on fostering open communication, where my adeptness in understanding and translating their unique requirements into a tangible, sophisticated solution shone through.
 
 
 ![Screenshot 2023-05-18 at 21 49 32](https://github.com/garretthanberg/Theatre-Project/assets/115447682/f236b9d3-1a47-422e-bf69-bd469e3434c4)
