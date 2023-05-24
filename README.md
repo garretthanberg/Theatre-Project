@@ -18,13 +18,14 @@ Throughout this captivating project, my programming acumen extended to an impres
 
 Drawing upon my mastery of C#, I skillfully engineered the back-end functionality, meticulously integrating the comment section into the existing infrastructure. Seamlessly blending JavaScript, jQuery, and AJAX, I crafted an immersive and responsive user experience, empowering theater enthusiasts to share their thoughts, reflections, and applause in real-time. Leveraging the power of Bootstrap and ASP.NET, I curated an aesthetically pleasing and visually captivating interface, harmonizing seamless functionality with striking design.
 
-Throughout the iterative development process, I embraced agile methodologies, collaborating closely with the theater company to ensure their vision was realized to its fullest potential. I diligently gathered requirements, swiftly implementing changes and fine-tuning the comment section to align with their evolving needs. The project's success hinged on fostering open communication, where my adeptness in understanding and translating their unique requirements into a tangible, sophisticated solution shone through.
-
 
 ![Screenshot 2023-05-18 at 21 48 20](https://github.com/garretthanberg/Theatre-Project/assets/115447682/fb562799-b231-4d10-9ad1-e53402f423e5)
 
 
-As the final curtain fell on this exceptional endeavor, the theater company was equipped with an unrivaled theater content management service, replete with a powerful and engaging comment section. This project exemplifies my unwavering dedication to delivering remarkable solutions and showcases my ability to thrive in complex and high-pressure environments. I am forever grateful for the opportunity to contribute to such a prestigious project, leaving an indelible mark on the esteemed theater company's digital landscape. The code and expertise I cultivated during this transformative journey stand as a testament to my commitment to excellence and my unyielding passion for crafting technologically advanced solutions that transcend expectations.
+Throughout the iterative development process, I embraced agile methodologies, collaborating closely with the theater company to ensure their vision was realized to its fullest potential. I diligently gathered requirements, swiftly implementing changes and fine-tuning the comment section to align with their evolving needs. The project's success hinged on fostering open communication, where my adeptness in understanding and translating their unique requirements into a tangible, sophisticated solution shone through.
 
 
 ![Screenshot 2023-05-18 at 21 49 32](https://github.com/garretthanberg/Theatre-Project/assets/115447682/f236b9d3-1a47-422e-bf69-bd469e3434c4)
+
+
+As the final curtain fell on this exceptional endeavor, the theater company was equipped with an unrivaled theater content management service, replete with a powerful and engaging comment section. This project exemplifies my unwavering dedication to delivering remarkable solutions and showcases my ability to thrive in complex and high-pressure environments. I am forever grateful for the opportunity to contribute to such a prestigious project, leaving an indelible mark on the esteemed theater company's digital landscape. The code and expertise I cultivated during this transformative journey stand as a testament to my commitment to excellence and my unyielding passion for crafting technologically advanced solutions that transcend expectations.
