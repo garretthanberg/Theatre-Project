@@ -7,13 +7,13 @@
 During my extraordinary internship at Prosper I.T. Consulting, I had the distinct honor of working on a transformative project exclusively tailored for a renowned theater company nestled in the vibrant city of Portland, OR. With an unwavering commitment to excellence, our primary objective was to establish an advanced theater content management service, empowering the organization with seamless control over their captivating productions and artistic endeavors. Harnessing the full extent of my technical prowess, I deftly employed a diverse array of cutting-edge tools and technologies, ensuring the project's resounding success. Leveraging the power of partial views, the robust Entity Framework, and an impressive arsenal of indispensable tools, including Azure DevOps, MVC, Git, and Visual Studio, I orchestrated a symphony of innovation and efficiency.
 
 
-![Screenshot 2023-05-18 at 21 49 06](https://github.com/garretthanberg/Theatre-Project/assets/115447682/17643d6f-f0c8-4b6b-80da-dde972a7f89d)
+![Screenshot 2023-05-18 at 21 49 50](https://github.com/garretthanberg/Theatre-Project/assets/115447682/197ab938-1a55-45b3-b6df-043e99e16801)
 
 
 Throughout this captivating project, my programming acumen extended to an impressive repertoire of languages and frameworks, including C#, JavaScript, jQuery, AJAX, Bootstrap, and ASP.NET. This comprehensive skill set paved the way for crafting a technologically sophisticated solution that transcended all expectations. As a pivotal contributor to this remarkable endeavor, my specific role involved building a robust comment section for the company's blog, delivering a captivating platform for audience engagement and interaction.
 
 
-![Screenshot 2023-05-18 at 21 49 50](https://github.com/garretthanberg/Theatre-Project/assets/115447682/197ab938-1a55-45b3-b6df-043e99e16801)
+![Screenshot 2023-05-18 at 21 49 06](https://github.com/garretthanberg/Theatre-Project/assets/115447682/17643d6f-f0c8-4b6b-80da-dde972a7f89d)
 
 
 Drawing upon my mastery of C#, I skillfully engineered the back-end functionality, meticulously integrating the comment section into the existing infrastructure. Seamlessly blending JavaScript, jQuery, and AJAX, I crafted an immersive and responsive user experience, empowering theater enthusiasts to share their thoughts, reflections, and applause in real-time. Leveraging the power of Bootstrap and ASP.NET, I curated an aesthetically pleasing and visually captivating interface, harmonizing seamless functionality with striking design.
