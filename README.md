@@ -1,4 +1,4 @@
-# Theatre Web Application:
+# Theatre Web App (ASP.NET):
 
 
 ![Screenshot 2023-05-18 at 21 48 01](https://github.com/garretthanberg/Theatre-Project/assets/115447682/6f720221-deff-402d-81e2-7c77d58af5a5)
